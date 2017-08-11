@@ -1,8 +1,0 @@
-package com.lanou;
-
-public class One {
-
-	public static void main(String[] args) {
-		
-	}
-}
